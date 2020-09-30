@@ -1,0 +1,802 @@
+[
+    {
+        "Pair": "BTC/USD",
+        "Volume": "1 373.35 BTC",
+        "Price": "10 811.44597 USD",
+        "Change": "-0.39%",
+        "High": "10 938 USD",
+        "Low": "10 764.36438 USD"
+    },
+    {
+        "Pair": "ETH/BTC",
+        "Volume": "409.50 BTC",
+        "Price": "0.03343453 BTC",
+        "Change": "0.66%",
+        "High": "0.03347 BTC",
+        "Low": "0.033 BTC"
+    },
+    {
+        "Pair": "DASH/BTC",
+        "Volume": "102.55 BTC",
+        "Price": "0.00633026 BTC",
+        "Change": "0.08%",
+        "High": "0.00655 BTC",
+        "Low": "0.0061358 BTC"
+    },
+    {
+        "Pair": "XSN/BTC",
+        "Volume": "84.02 BTC",
+        "Price": "0.00001641 BTC",
+        "Change": "-3.64%",
+        "High": "0.00001753 BTC",
+        "Low": "0.00001616 BTC"
+    },
+    {
+        "Pair": "BTC/USDT",
+        "Volume": "82.31 BTC",
+        "Price": "10 758.15574000 USDT",
+        "Change": "0.61%",
+        "High": "10 798.41618 USDT",
+        "Low": "10 480.05367371 USDT"
+    },
+    {
+        "Pair": "XLM/BTC",
+        "Volume": "51.97 BTC",
+        "Price": "0.00000695 BTC",
+        "Change": "2.66%",
+        "High": "0.00000712 BTC",
+        "Low": "0.00000672 BTC"
+    },
+    {
+        "Pair": "LTC/BTC",
+        "Volume": "48.77 BTC",
+        "Price": "0.00428000 BTC",
+        "Change": "1.52%",
+        "High": "0.00433334 BTC",
+        "Low": "0.00417543 BTC"
+    },
+    {
+        "Pair": "BCH/BTC",
+        "Volume": "27.80 BTC",
+        "Price": "0.02134622 BTC",
+        "Change": "1.66%",
+        "High": "0.02142074 BTC",
+        "Low": "0.02099801 BTC"
+    },
+    {
+        "Pair": "BTC/RUR",
+        "Volume": "19.47 BTC",
+        "Price": "831 432.48235 RUR",
+        "Change": "-0.13%",
+        "High": "842 331.37488 RUR",
+        "Low": "820 000 RUR"
+    },
+    {
+        "Pair": "DGB/BTC",
+        "Volume": "19.31 BTC",
+        "Price": "0.00000248 BTC",
+        "Change": "8.3%",
+        "High": "0.00000248 BTC",
+        "Low": "0.0000022 BTC"
+    },
+    {
+        "Pair": "ROOBEE/BTC",
+        "Volume": "12.45 BTC",
+        "Price": "0.00000029 BTC",
+        "Change": "0%",
+        "High": "0.0000003 BTC",
+        "Low": "0.00000028 BTC"
+    },
+    {
+        "Pair": "BTC/EUR",
+        "Volume": "9.73 BTC",
+        "Price": "9 181.00000 EUR",
+        "Change": "0.56%",
+        "High": "9 484.59574 EUR",
+        "Low": "9 103.579 EUR"
+    },
+    {
+        "Pair": "LSK/BTC",
+        "Volume": "9.47 BTC",
+        "Price": "0.00010862 BTC",
+        "Change": "-0.83%",
+        "High": "0.00011041 BTC",
+        "Low": "0.00010773 BTC"
+    },
+    {
+        "Pair": "WAVES/BTC",
+        "Volume": "8.73 BTC",
+        "Price": "0.00023277 BTC",
+        "Change": "3.22%",
+        "High": "0.00023438 BTC",
+        "Low": "0.00022519 BTC"
+    },
+    {
+        "Pair": "CHSB/BTC",
+        "Volume": "7.86 BTC",
+        "Price": "0.00000709 BTC",
+        "Change": "-6.96%",
+        "High": "0.00000762 BTC",
+        "Low": "0.00000698 BTC"
+    },
+    {
+        "Pair": "MLGC/BTC",
+        "Volume": "7.45 BTC",
+        "Price": "0.00002029 BTC",
+        "Change": "0.05%",
+        "High": "0.0000203 BTC",
+        "Low": "0.00002026 BTC"
+    },
+    {
+        "Pair": "BAT/BTC",
+        "Volume": "6.11 BTC",
+        "Price": "0.00002236 BTC",
+        "Change": "3.42%",
+        "High": "0.00002266 BTC",
+        "Low": "0.00002132 BTC"
+    },
+    {
+        "Pair": "XEM/BTC",
+        "Volume": "4.74 BTC",
+        "Price": "0.00001058 BTC",
+        "Change": "-3.64%",
+        "High": "0.00001113 BTC",
+        "Low": "0.00001052 BTC"
+    },
+    {
+        "Pair": "EOS/BTC",
+        "Volume": "3.49 BTC",
+        "Price": "0.00023855 BTC",
+        "Change": "-1.71%",
+        "High": "0.00024269 BTC",
+        "Low": "0.00023552 BTC"
+    },
+    {
+        "Pair": "ZEC/BTC",
+        "Volume": "2.03 BTC",
+        "Price": "0.00573594 BTC",
+        "Change": "2.29%",
+        "High": "0.0058 BTC",
+        "Low": "0.00544765 BTC"
+    },
+    {
+        "Pair": "IPL/BTC",
+        "Volume": "1.96 BTC",
+        "Price": "0.00000010 BTC",
+        "Change": "-9.09%",
+        "High": "0.00000011 BTC",
+        "Low": "0.00000009 BTC"
+    },
+    {
+        "Pair": "ZRX/BTC",
+        "Volume": "1.68 BTC",
+        "Price": "0.00003660 BTC",
+        "Change": "-0.35%",
+        "High": "0.00003735 BTC",
+        "Low": "0.00003636 BTC"
+    },
+    {
+        "Pair": "BTS/BTC",
+        "Volume": "1.51 BTC",
+        "Price": "0.00000221 BTC",
+        "Change": "-3.91%",
+        "High": "0.0000023 BTC",
+        "Low": "0.00000216 BTC"
+    },
+    {
+        "Pair": "LEVL/BTC",
+        "Volume": "1.50 BTC",
+        "Price": "0.00001468 BTC",
+        "Change": "-3.99%",
+        "High": "0.00001614 BTC",
+        "Low": "0.00001415 BTC"
+    },
+    {
+        "Pair": "TIME/BTC",
+        "Volume": "1.06 BTC",
+        "Price": "0.00014171 BTC",
+        "Change": "0.43%",
+        "High": "0.00014764 BTC",
+        "Low": "0.0001354 BTC"
+    },
+    {
+        "Pair": "XFC/BTC",
+        "Volume": "0.92 BTC",
+        "Price": "0.00000027 BTC",
+        "Change": "0%",
+        "High": "0.00000028 BTC",
+        "Low": "0.00000026 BTC"
+    },
+    {
+        "Pair": "PLBT/BTC",
+        "Volume": "0.76 BTC",
+        "Price": "0.00014267 BTC",
+        "Change": "-1.18%",
+        "High": "0.00014569 BTC",
+        "Low": "0.000142 BTC"
+    },
+    {
+        "Pair": "VRS/BTC",
+        "Volume": "0.71 BTC",
+        "Price": "0.00000347 BTC",
+        "Change": "0.29%",
+        "High": "0.00000398 BTC",
+        "Low": "0.0000032 BTC"
+    },
+    {
+        "Pair": "ETC/BTC",
+        "Volume": "0.61 BTC",
+        "Price": "0.00049668 BTC",
+        "Change": "1.37%",
+        "High": "0.00049836 BTC",
+        "Low": "0.00048103 BTC"
+    },
+    {
+        "Pair": "SYS/BTC",
+        "Volume": "0.59 BTC",
+        "Price": "0.00000497 BTC",
+        "Change": "-0.2%",
+        "High": "0.00000517 BTC",
+        "Low": "0.0000047 BTC"
+    },
+    {
+        "Pair": "PXP/BTC",
+        "Volume": "0.54 BTC",
+        "Price": "0.00000143 BTC",
+        "Change": "0%",
+        "High": "0.00000144 BTC",
+        "Low": "0.0000013 BTC"
+    },
+    {
+        "Pair": "MNE/BTC",
+        "Volume": "0.54 BTC",
+        "Price": "0.00003088 BTC",
+        "Change": "-3.83%",
+        "High": "0.00003307 BTC",
+        "Low": "0.00002913 BTC"
+    },
+    {
+        "Pair": "PZM/BTC",
+        "Volume": "0.48 BTC",
+        "Price": "0.00000073 BTC",
+        "Change": "5.8%",
+        "High": "0.00000073 BTC",
+        "Low": "0.00000064 BTC"
+    },
+    {
+        "Pair": "WNL/BTC",
+        "Volume": "0.47 BTC",
+        "Price": "0.00000179 BTC",
+        "Change": "7.83%",
+        "High": "0.00000179 BTC",
+        "Low": "0.00000161 BTC"
+    },
+    {
+        "Pair": "EMC/BTC",
+        "Volume": "0.44 BTC",
+        "Price": "0.00000345 BTC",
+        "Change": "-1.15%",
+        "High": "0.00000355 BTC",
+        "Low": "0.00000327 BTC"
+    },
+    {
+        "Pair": "PPY/BTC",
+        "Volume": "0.42 BTC",
+        "Price": "0.00003023 BTC",
+        "Change": "-3.7%",
+        "High": "0.00003228 BTC",
+        "Low": "0.00003 BTC"
+    },
+    {
+        "Pair": "CURE/BTC",
+        "Volume": "0.40 BTC",
+        "Price": "0.00000579 BTC",
+        "Change": "1.05%",
+        "High": "0.00000588 BTC",
+        "Low": "0.00000558 BTC"
+    },
+    {
+        "Pair": "MNTP/BTC",
+        "Volume": "0.35 BTC",
+        "Price": "0.00001577 BTC",
+        "Change": "-3.55%",
+        "High": "0.00001785 BTC",
+        "Low": "0.00001517 BTC"
+    },
+    {
+        "Pair": "CRAD/BTC",
+        "Volume": "0.33 BTC",
+        "Price": "0.00000035 BTC",
+        "Change": "0%",
+        "High": "0.00000035 BTC",
+        "Low": "0.00000034 BTC"
+    },
+    {
+        "Pair": "RADS/BTC",
+        "Volume": "0.33 BTC",
+        "Price": "0.00004058 BTC",
+        "Change": "-0.49%",
+        "High": "0.00004184 BTC",
+        "Low": "0.00003912 BTC"
+    },
+    {
+        "Pair": "NEO/BTC",
+        "Volume": "0.31 BTC",
+        "Price": "0.00177375 BTC",
+        "Change": "-0.46%",
+        "High": "0.00186219 BTC",
+        "Low": "0.00170495 BTC"
+    },
+    {
+        "Pair": "UQC/BTC",
+        "Volume": "0.26 BTC",
+        "Price": "0.00056111 BTC",
+        "Change": "-5.47%",
+        "High": "0.0006033 BTC",
+        "Low": "0.00052851 BTC"
+    },
+    {
+        "Pair": "CPC/BTC",
+        "Volume": "0.21 BTC",
+        "Price": "0.00000139 BTC",
+        "Change": "-0.71%",
+        "High": "0.0000014 BTC",
+        "Low": "0.0000013 BTC"
+    },
+    {
+        "Pair": "TRX/BTC",
+        "Volume": "0.20 BTC",
+        "Price": "0.00000245 BTC",
+        "Change": "2.51%",
+        "High": "0.0000025 BTC",
+        "Low": "0.00000239 BTC"
+    },
+    {
+        "Pair": "XSPEC/BTC",
+        "Volume": "0.18 BTC",
+        "Price": "0.00000940 BTC",
+        "Change": "8.8%",
+        "High": "0.00000975 BTC",
+        "Low": "0.00000858 BTC"
+    },
+    {
+        "Pair": "BNODE/BTC",
+        "Volume": "0.17 BTC",
+        "Price": "0.00005313 BTC",
+        "Change": "5.4%",
+        "High": "0.00006807 BTC",
+        "Low": "0.00004605 BTC"
+    },
+    {
+        "Pair": "ABBC/BTC",
+        "Volume": "0.15 BTC",
+        "Price": "0.00000022 BTC",
+        "Change": "-21.43%",
+        "High": "0.0000003 BTC",
+        "Low": "0.00000021 BTC"
+    },
+    {
+        "Pair": "TX/BTC",
+        "Volume": "0.15 BTC",
+        "Price": "0.00000277 BTC",
+        "Change": "-13.17%",
+        "High": "0.00000332 BTC",
+        "Low": "0.00000252 BTC"
+    },
+    {
+        "Pair": "UTK/BTC",
+        "Volume": "0.15 BTC",
+        "Price": "0.00000199 BTC",
+        "Change": "47.41%",
+        "High": "0.000004 BTC",
+        "Low": "0.00000117 BTC"
+    },
+    {
+        "Pair": "STRAT/BTC",
+        "Volume": "0.13 BTC",
+        "Price": "0.00004173 BTC",
+        "Change": "0.24%",
+        "High": "0.00004238 BTC",
+        "Low": "0.00004112 BTC"
+    },
+    {
+        "Pair": "XRP/BTC",
+        "Volume": "0.12 BTC",
+        "Price": "0.00002248 BTC",
+        "Change": "0%",
+        "High": "0.00002258 BTC",
+        "Low": "0.00002226 BTC"
+    },
+    {
+        "Pair": "GRS/BTC",
+        "Volume": "0.12 BTC",
+        "Price": "0.00001622 BTC",
+        "Change": "-3.11%",
+        "High": "0.00001725 BTC",
+        "Low": "0.0000162 BTC"
+    },
+    {
+        "Pair": "TNS/BTC",
+        "Volume": "0.10 BTC",
+        "Price": "0.00000013 BTC",
+        "Change": "0%",
+        "High": "0.00000013 BTC",
+        "Low": "0.00000012 BTC"
+    },
+    {
+        "Pair": "VRC/BTC",
+        "Volume": "0.09 BTC",
+        "Price": "0.00000390 BTC",
+        "Change": "2.9%",
+        "High": "0.000004 BTC",
+        "Low": "0.0000037 BTC"
+    },
+    {
+        "Pair": "INCNT/BTC",
+        "Volume": "0.08 BTC",
+        "Price": "0.00000325 BTC",
+        "Change": "1.56%",
+        "High": "0.00000331 BTC",
+        "Low": "0.00000309 BTC"
+    },
+    {
+        "Pair": "DMD/BTC",
+        "Volume": "0.08 BTC",
+        "Price": "0.00005667 BTC",
+        "Change": "9.42%",
+        "High": "0.00006086 BTC",
+        "Low": "0.00005143 BTC"
+    },
+    {
+        "Pair": "SFX/BTC",
+        "Volume": "0.08 BTC",
+        "Price": "0.00000052 BTC",
+        "Change": "0%",
+        "High": "0.00000056 BTC",
+        "Low": "0.00000052 BTC"
+    },
+    {
+        "Pair": "NVC/BTC",
+        "Volume": "0.07 BTC",
+        "Price": "0.00001627 BTC",
+        "Change": "0.37%",
+        "High": "0.00001718 BTC",
+        "Low": "0.00001621 BTC"
+    },
+    {
+        "Pair": "CTX/BTC",
+        "Volume": "0.07 BTC",
+        "Price": "0.00000010 BTC",
+        "Change": "-9.09%",
+        "High": "0.00000014 BTC",
+        "Low": "0.00000006 BTC"
+    },
+    {
+        "Pair": "RISE/BTC",
+        "Volume": "0.07 BTC",
+        "Price": "0.00000056 BTC",
+        "Change": "16.67%",
+        "High": "0.00000063 BTC",
+        "Low": "0.00000047 BTC"
+    },
+    {
+        "Pair": "SXC/BTC",
+        "Volume": "0.07 BTC",
+        "Price": "0.00000022 BTC",
+        "Change": "-18.52%",
+        "High": "0.00000027 BTC",
+        "Low": "0.00000017 BTC"
+    },
+    {
+        "Pair": "GAME/BTC",
+        "Volume": "0.05 BTC",
+        "Price": "0.00000483 BTC",
+        "Change": "0.63%",
+        "High": "0.00000488 BTC",
+        "Low": "0.0000044 BTC"
+    },
+    {
+        "Pair": "XVG/BTC",
+        "Volume": "0.05 BTC",
+        "Price": "0.00000039 BTC",
+        "Change": "0%",
+        "High": "0.0000004 BTC",
+        "Low": "0.00000039 BTC"
+    },
+    {
+        "Pair": "SLR/BTC",
+        "Volume": "0.05 BTC",
+        "Price": "0.00000143 BTC",
+        "Change": "-4.03%",
+        "High": "0.00000153 BTC",
+        "Low": "0.00000139 BTC"
+    },
+    {
+        "Pair": "BURST/BTC",
+        "Volume": "0.05 BTC",
+        "Price": "0.00000026 BTC",
+        "Change": "-7.14%",
+        "High": "0.0000003 BTC",
+        "Low": "0.00000024 BTC"
+    },
+    {
+        "Pair": "BNB/BTC",
+        "Volume": "0.04 BTC",
+        "Price": "0.00263491 BTC",
+        "Change": "10.12%",
+        "High": "0.002711 BTC",
+        "Low": "0.00227512 BTC"
+    },
+    {
+        "Pair": "YOC/BTC",
+        "Volume": "0.04 BTC",
+        "Price": "0.00000005 BTC",
+        "Change": "25%",
+        "High": "0.00000005 BTC",
+        "Low": "0.00000004 BTC"
+    },
+    {
+        "Pair": "DOGE/BTC",
+        "Volume": "0.04 BTC",
+        "Price": "0.00000024 BTC",
+        "Change": "-4%",
+        "High": "0.00000025 BTC",
+        "Low": "0.00000024 BTC"
+    },
+    {
+        "Pair": "EVC/BTC",
+        "Volume": "0.04 BTC",
+        "Price": "0.00000075 BTC",
+        "Change": "-1.32%",
+        "High": "0.00000077 BTC",
+        "Low": "0.00000071 BTC"
+    },
+    {
+        "Pair": "TAAS/BTC",
+        "Volume": "0.04 BTC",
+        "Price": "0.00007762 BTC",
+        "Change": "10.84%",
+        "High": "0.00007923 BTC",
+        "Low": "0.00007002 BTC"
+    },
+    {
+        "Pair": "DTR/BTC",
+        "Volume": "0.04 BTC",
+        "Price": "0.00000095 BTC",
+        "Change": "9.2%",
+        "High": "0.00000101 BTC",
+        "Low": "0.00000084 BTC"
+    },
+    {
+        "Pair": "EURN/BTC",
+        "Volume": "0.04 BTC",
+        "Price": "0.00004412 BTC",
+        "Change": "-7.31%",
+        "High": "0.00005001 BTC",
+        "Low": "0.00001808 BTC"
+    },
+    {
+        "Pair": "USC/BTC",
+        "Volume": "0.04 BTC",
+        "Price": "0.00000230 BTC",
+        "Change": "-2.54%",
+        "High": "0.00000265 BTC",
+        "Low": "0.00000209 BTC"
+    },
+    {
+        "Pair": "WGR/BTC",
+        "Volume": "0.04 BTC",
+        "Price": "0.00000364 BTC",
+        "Change": "-8.77%",
+        "High": "0.00000399 BTC",
+        "Low": "0.00000347 BTC"
+    },
+    {
+        "Pair": "ANT/BTC",
+        "Volume": "0.04 BTC",
+        "Price": "0.00031646 BTC",
+        "Change": "-1.67%",
+        "High": "0.00032439 BTC",
+        "Low": "0.00031273 BTC"
+    },
+    {
+        "Pair": "MGO/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000108 BTC",
+        "Change": "9.09%",
+        "High": "0.00000117 BTC",
+        "Low": "0.00000099 BTC"
+    },
+    {
+        "Pair": "NEXO/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00001335 BTC",
+        "Change": "3.65%",
+        "High": "0.00001469 BTC",
+        "Low": "0.00001288 BTC"
+    },
+    {
+        "Pair": "NMC/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00003715 BTC",
+        "Change": "2.54%",
+        "High": "0.0000372 BTC",
+        "Low": "0.00003616 BTC"
+    },
+    {
+        "Pair": "XTZ/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00020874 BTC",
+        "Change": "-6.12%",
+        "High": "0.00023125 BTC",
+        "Low": "0.00020533 BTC"
+    },
+    {
+        "Pair": "ONL/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000167 BTC",
+        "Change": "29.46%",
+        "High": "0.00000167 BTC",
+        "Low": "0.00000125 BTC"
+    },
+    {
+        "Pair": "KNC/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00009190 BTC",
+        "Change": "-0.18%",
+        "High": "0.00009889 BTC",
+        "Low": "0.00008726 BTC"
+    },
+    {
+        "Pair": "TRUMP/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000109 BTC",
+        "Change": "0.93%",
+        "High": "0.0000011 BTC",
+        "Low": "0.00000102 BTC"
+    },
+    {
+        "Pair": "OMG/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00036757 BTC",
+        "Change": "-0.49%",
+        "High": "0.00037397 BTC",
+        "Low": "0.00036275 BTC"
+    },
+    {
+        "Pair": "LINK/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00080476 BTC",
+        "Change": "-0.85%",
+        "High": "0.00084004 BTC",
+        "Low": "0.00079406 BTC"
+    },
+    {
+        "Pair": "ELF/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000974 BTC",
+        "Change": "0.31%",
+        "High": "0.00000988 BTC",
+        "Low": "0.00000937 BTC"
+    },
+    {
+        "Pair": "QASH/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000363 BTC",
+        "Change": "-1.63%",
+        "High": "0.00000374 BTC",
+        "Low": "0.0000035 BTC"
+    },
+    {
+        "Pair": "DGTX/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000274 BTC",
+        "Change": "3.01%",
+        "High": "0.0000029 BTC",
+        "Low": "0.00000256 BTC"
+    },
+    {
+        "Pair": "FNC/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000017 BTC",
+        "Change": "0%",
+        "High": "0.00000017 BTC",
+        "Low": "0.00000017 BTC"
+    },
+    {
+        "Pair": "TER/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000033 BTC",
+        "Change": "3.13%",
+        "High": "0.00000033 BTC",
+        "Low": "0.00000032 BTC"
+    },
+    {
+        "Pair": "RVN/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000129 BTC",
+        "Change": "0%",
+        "High": "0.0000013 BTC",
+        "Low": "0.00000125 BTC"
+    },
+    {
+        "Pair": "DCR/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00116189 BTC",
+        "Change": "2.39%",
+        "High": "0.00122863 BTC",
+        "Low": "0.00109743 BTC"
+    },
+    {
+        "Pair": "CLOAK/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00001229 BTC",
+        "Change": "-0.16%",
+        "High": "0.00001234 BTC",
+        "Low": "0.00001221 BTC"
+    },
+    {
+        "Pair": "AE/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00001121 BTC",
+        "Change": "-3.61%",
+        "High": "0.00001166 BTC",
+        "Low": "0.00001047 BTC"
+    },
+    {
+        "Pair": "ESR/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000148 BTC",
+        "Change": "-1.33%",
+        "High": "0.00000152 BTC",
+        "Low": "0.00000144 BTC"
+    },
+    {
+        "Pair": "DGD/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00516352 BTC",
+        "Change": "-2.93%",
+        "High": "0.00562355 BTC",
+        "Low": "0.00473369 BTC"
+    },
+    {
+        "Pair": "BTA/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000113 BTC",
+        "Change": "-0.88%",
+        "High": "0.00000115 BTC",
+        "Low": "0.00000109 BTC"
+    },
+    {
+        "Pair": "NAVY/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000011 BTC",
+        "Change": "0%",
+        "High": "0.00000011 BTC",
+        "Low": "0.00000011 BTC"
+    },
+    {
+        "Pair": "DOV/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000011 BTC",
+        "Change": "0%",
+        "High": "0.00000011 BTC",
+        "Low": "0.00000011 BTC"
+    },
+    {
+        "Pair": "QBIT/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00037108 BTC",
+        "Change": "-40.49%",
+        "High": "0.00065924 BTC",
+        "Low": "0.00027618 BTC"
+    },
+    {
+        "Pair": "CVC/BTC",
+        "Volume": "0.03 BTC",
+        "Price": "0.00000239 BTC",
+        "Change": "-5.53%",
+        "High": "0.00000253 BTC",
+        "Low": "0.00000237 BTC"
+    }
+]
